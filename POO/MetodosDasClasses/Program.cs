@@ -35,6 +35,8 @@ namespace MetodosDasClasses
             */
             #endregion
 
+            #region Métodos com retorno de valores
+            /*
             string nomeCompleto = m.MontaNome("Luciano", "Matos");
             int codigoChar = m.CodigoChar('a');
             double pi = m.ValorPI();
@@ -42,7 +44,18 @@ namespace MetodosDasClasses
             Console.WriteLine(nomeCompleto);
             Console.WriteLine(codigoChar);
             Console.WriteLine(pi);
+            */
+            #endregion
 
+            m.Cumprimentar();
+            m.Cumprimentar("Luciano");
+            m.Cumprimentar("Luciano", 18);
+
+            bool res1 = m.Comparar(100, 50 * 2);
+            bool res2 = m.Comparar("Luciano", "luciano");
+
+            Console.WriteLine(res1);
+            Console.WriteLine(res2);
 
             Console.ReadKey();
         }
