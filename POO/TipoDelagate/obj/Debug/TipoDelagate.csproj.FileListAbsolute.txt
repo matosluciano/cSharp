@@ -1,0 +1,7 @@
+C:\Curso\POO\TipoDelagate\bin\Debug\TipoDelagate.exe.config
+C:\Curso\POO\TipoDelagate\bin\Debug\TipoDelagate.exe
+C:\Curso\POO\TipoDelagate\bin\Debug\TipoDelagate.pdb
+C:\Curso\POO\TipoDelagate\obj\Debug\TipoDelagate.csproj.AssemblyReference.cache
+C:\Curso\POO\TipoDelagate\obj\Debug\TipoDelagate.csproj.CoreCompileInputs.cache
+C:\Curso\POO\TipoDelagate\obj\Debug\TipoDelagate.exe
+C:\Curso\POO\TipoDelagate\obj\Debug\TipoDelagate.pdb
