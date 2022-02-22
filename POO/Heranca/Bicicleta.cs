@@ -6,23 +6,21 @@ using System.Threading.Tasks;
 
 namespace Heranca
 {
-    class Bicicleta
+    sealed class Bicicleta : Veiculo
     {
-        public string Cor { get; set; }
-        public string Marca { get; set; }
+        
         public void Pedalar()
         {
             
         }
-
-        public void Acelerar()
+        public override void Acelerar()
         {
-            Console.WriteLine("Acelerou!");
+            Console.WriteLine("Acelerou a bicicleta! ");
         }
-        public void Parar()
+
+        public override void Parar()
         {
-            Console.WriteLine("Parou!");
+            Console.WriteLine("Parou a bicicleta! ");
         }
     }
-
 }

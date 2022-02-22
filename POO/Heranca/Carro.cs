@@ -6,25 +6,23 @@ using System.Threading.Tasks;
 
 namespace Heranca
 {
-    class Carro
+    class Carro : Veiculo
     {
-        public string Cor { get; set; }
-        public string Marca { get; set; }
+        
         public int VelocidadeMaxima { get; set; }
         
         public void LigarMotor()
         {
             Console.WriteLine("O carro ligou o motor. ");
         }
-
-        
-        public void Acelerar()
+        public override void Acelerar()
         {
-            Console.WriteLine("Acelerou!");
+            Console.WriteLine("Acelerou o carro! ");
         }
-        public void Parar()
+        public override void Parar()
         {
-            Console.WriteLine("Parou!");
+            Console.WriteLine("Parou o carro! ");
         }
     }
 }
+

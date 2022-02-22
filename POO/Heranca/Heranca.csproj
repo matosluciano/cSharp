@@ -44,9 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bicicleta.cs" />
+    <Compile Include="Caminhote.cs" />
     <Compile Include="Carro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes.cs" />
     <Compile Include="Veiculo.cs" />
   </ItemGroup>
   <ItemGroup>
