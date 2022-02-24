@@ -1,0 +1,14 @@
+C:\Curso\Recursividade\Recursividade\bin\Debug\Recursividade.exe.config
+C:\Curso\Recursividade\Recursividade\bin\Debug\Recursividade.exe
+C:\Curso\Recursividade\Recursividade\bin\Debug\Recursividade.pdb
+C:\Curso\Recursividade\Recursividade\obj\Debug\Recursividade.csprojAssemblyReference.cache
+C:\Curso\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.CoreCompileInputs.cache
+C:\Curso\Recursividade\Recursividade\obj\Debug\Recursividade.exe
+C:\Curso\Recursividade\Recursividade\obj\Debug\Recursividade.pdb
+C:\Curso\Recursividade\Recursividade\Recursividade\bin\Debug\Recursividade.exe.config
+C:\Curso\Recursividade\Recursividade\Recursividade\bin\Debug\Recursividade.exe
+C:\Curso\Recursividade\Recursividade\Recursividade\bin\Debug\Recursividade.pdb
+C:\Curso\Recursividade\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.AssemblyReference.cache
+C:\Curso\Recursividade\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.CoreCompileInputs.cache
+C:\Curso\Recursividade\Recursividade\Recursividade\obj\Debug\Recursividade.exe
+C:\Curso\Recursividade\Recursividade\Recursividade\obj\Debug\Recursividade.pdb
