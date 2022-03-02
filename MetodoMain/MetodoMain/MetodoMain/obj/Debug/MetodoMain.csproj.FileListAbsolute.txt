@@ -7,7 +7,6 @@ C:\Curso\MetodoMain\MetodoMain\obj\Debug\MetodoMain.pdb
 C:\Curso\MetodoMain\MetodoMain\MetodoMain\bin\Debug\MetodoMain.exe.config
 C:\Curso\MetodoMain\MetodoMain\MetodoMain\bin\Debug\MetodoMain.exe
 C:\Curso\MetodoMain\MetodoMain\MetodoMain\bin\Debug\MetodoMain.pdb
-C:\Curso\MetodoMain\MetodoMain\MetodoMain\obj\Debug\MetodoMain.csproj.AssemblyReference.cache
 C:\Curso\MetodoMain\MetodoMain\MetodoMain\obj\Debug\MetodoMain.csproj.CoreCompileInputs.cache
 C:\Curso\MetodoMain\MetodoMain\MetodoMain\obj\Debug\MetodoMain.exe
 C:\Curso\MetodoMain\MetodoMain\MetodoMain\obj\Debug\MetodoMain.pdb
