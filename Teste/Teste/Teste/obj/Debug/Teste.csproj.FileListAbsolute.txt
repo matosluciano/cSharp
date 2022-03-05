@@ -1,0 +1,13 @@
+C:\Curso\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Curso\Teste\Teste\bin\Debug\Teste.exe
+C:\Curso\Teste\Teste\bin\Debug\Teste.pdb
+C:\Curso\Teste\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\Curso\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Curso\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Curso\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Curso\Teste\Teste\obj\Debug\Teste.exe
+C:\Curso\Teste\Teste\obj\Debug\Teste.pdb
+C:\Curso\Teste\Teste\obj\Debug\Teste.Form1.resources
+C:\Curso\Teste\Teste\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Curso\Teste\Teste\Teste\obj\Debug\Teste.exe
+C:\Curso\Teste\Teste\Teste\obj\Debug\Teste.pdb
