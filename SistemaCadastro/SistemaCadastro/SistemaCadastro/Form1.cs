@@ -22,7 +22,7 @@ namespace SistemaCadastro
 
             comboEC.Items.Add("Casado");
             comboEC.Items.Add("Solteiro");
-            comboEC.Items.Add("Viuvo");
+            comboEC.Items.Add("Viúvo");
             comboEC.Items.Add("Separado");
 
             comboEC.SelectedIndex = 0;
