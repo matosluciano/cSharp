@@ -34,7 +34,7 @@ namespace ManipularString
             else
             {
                 label1.Text = "Não Contém."; ;
-            }*/
+            }
             int num = 5400;
             int val = 2000;
             label1.Text = num.ToString();
@@ -43,23 +43,49 @@ namespace ManipularString
 
             label1.Text = res.ToString();
 
-            Console.WriteLine(res);
+            Console.WriteLine(res);*/
 
             #endregion
 
             #region ToUpper / ToLower
-            string nome = "Luciano";
+            /*string nome = "Luciano";
 
             //nome = nome.ToUpper(); mesmo efeito do código abaixo:
             // string nomeMaiusculo = nome.ToUpper();
 
 
 
-            label1.Text = nome.ToLower();
+            label1.Text = nome.ToLower();*/
             #endregion
 
+            #region LastIndexOf
+            /* string nome = "Luciano Matos";
 
+            int indice = nome.LastIndexOf("Matos");
 
+            label1.Text = "Indice: " + indice; */
+            #endregion
+
+            #region Insert / Replace
+            /*string nome = "Luciano Matos";
+
+            // string nomeFinal = nome.Insert(0, " Oliveira ");
+
+            string nomeFinal = nome.Replace("a", "^");
+            label1.Text = nomeFinal;*/
+
+            #endregion
+
+            string nome = "Luciano Matos";
+
+            // int tamanho = nome.Length;
+
+            // label1.Text = "O nome " + nome + " tem " + tamanho + " letras !";
+
+            for (int i = 0; i < nome.Length; i++)
+            {
+                Console.Write(label1.Text += nome[i] + "\n");
+            }
         }
     }
 }
