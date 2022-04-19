@@ -85,6 +85,7 @@ namespace ManipularString
             for (int i = 0; i < nome.Length; i++)
             {
                 Console.Write(label1.Text += nome[i] + "\n");
+
             }
         }
     }
